@@ -11,7 +11,7 @@
     },
     "SESSION_NAME": {
       "description": "Your Bot's username.",
-      "value": "youtubeitbot",
+      "value": "astraytvideobot",
       "required":false
     },
     "API_ID": {
@@ -32,7 +32,7 @@
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
-      "value": ""
+      "value": "5379468166"
     },
     "AUTH_USERS": {
       "description": "Telegram id of authorised users, separated by comma",
@@ -61,7 +61,7 @@
     },
     "UPLOAD_MODE": {
       "description": "The video's privacy status. Valid values for this property are: private, public, unlisted",
-      "value": "private",
+      "value": "unlisted",
       "required":false
     },
     "DEBUG": {
