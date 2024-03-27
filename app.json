@@ -1,9 +1,9 @@
 {
-  "name": "Youtube Upload Bot",
-  "description": "Telegram to YouTube Uploader Bot",
+  "name": "astra",
+  "description": "astra",
   "repository": "https://github.com/kartikshriwas/utube",
   "logo": "https://github.com/kartikshriwas/utube/blob/master/ss/logo.jpeg",
-  "keywords": ["telegram", "youtube", "uploader"],
+  "keywords": ["astra"],
   "env": {
       "BOT_TOKEN": {
       "description": "Your Bot token. Get from https://t.me/botfather",
